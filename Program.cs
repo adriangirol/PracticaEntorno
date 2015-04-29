@@ -17,5 +17,6 @@ namespace Git_Ex1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        //Comentario para la practica
     }
 }
